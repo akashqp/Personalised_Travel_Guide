@@ -13,3 +13,7 @@ pip install -r requirements.txt
 ```
 
 Open the Jupyter Notebook - "travel_guide.ipynb", trust the notebook after clicking on "File", and execute all the cells.
+
+```bash
+jupyter notebook
+```

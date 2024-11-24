@@ -6,3 +6,4 @@ scikit-learn==1.5.2
 seaborn==0.13.2
 folium
 geopy==2.4.1
+jupyterlab
